@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(220,91,92);
+	border-top: 8px solid rgb(156,208,187);
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translate3d(-50%, -50%, 0);
+	transform: translate3d(-50%, -50%, 0);
+	min-width: 600px;
+}
+h1 {
+	color: rgb(61,26,29);
+	font-family: 'Pacifico';
+	font-size: 60px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+p {
+	font-family: 'Josefin Sans', 'Helvetica', sans-serif;
+	font-size: 22px;
+	font-weight: 600;
+	color: rgb(244,199,182);
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+p > a {
+	color: rgb(244,199,182);
+	text-decoration: none;
+}
