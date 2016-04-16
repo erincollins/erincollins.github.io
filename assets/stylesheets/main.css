@@ -1,6 +1,7 @@
 body {
 	background-color: rgb(220,91,92);
 	border-top: 8px solid rgb(156,208,187);
+	font-family: 'Helvetica', sans-serif;
 	margin: 0;
 	padding: 0;
 }
@@ -21,7 +22,7 @@ h1 {
 	text-align: center;
 }
 p {
-	font-family: 'Josefin Sans', 'Helvetica', sans-serif;
+	font-family: 'Josefin Sans';
 	font-size: 22px;
 	font-weight: 600;
 	color: rgb(244,199,182);
