@@ -17,13 +17,15 @@ h1 {
 	color: rgb(61,26,29);
 	font-family: 'Pacifico';
 	font-size: 60px;
+	font-size: 6.5vw;
 	margin: 0;
 	padding: 0;
 	text-align: center;
 }
 p {
 	font-family: 'Josefin Sans';
-	font-size: 22px;
+	font-size: 28px;
+	font-size: 2.7vw;
 	font-weight: 600;
 	color: rgb(244,199,182);
 	margin: 0;
@@ -33,4 +35,14 @@ p {
 p > a {
 	color: rgb(244,199,182);
 	text-decoration: none;
+}
+.tiny-shoes {
+	background-image: url(../images/tiny-shoes.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	bottom: 0;
+	height: 188px; /* 470 */
+	left: 0;
+	position: absolute;
+	width: 289px; /* 724 */
 }
