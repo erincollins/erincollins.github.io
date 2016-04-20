@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(220,91,92);
+	background-color: rgba(220,91,92,.9);
 	border-top: 8px solid rgb(156,208,187);
 	font-family: 'Helvetica', sans-serif;
 	margin: 0;
@@ -8,10 +8,11 @@ body {
 .wrapper {
 	left: 50%;
 	position: absolute;
+	text-align: center;
 	top: 50%;
 	-webkit-transform: translate3d(-50%, -50%, 0);
 	transform: translate3d(-50%, -50%, 0);
-	min-width: 600px;
+	min-width: 100%;
 }
 h1 {
 	color: rgb(61,26,29);
