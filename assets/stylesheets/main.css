@@ -10,8 +10,8 @@ body {
 	position: absolute;
 	text-align: center;
 	top: 50%;
-	-webkit-transform: translate3d(-50%, -50%, 0);
-	transform: translate3d(-50%, -50%, 0);
+	-webkit-transform: translate3d(-50%, -55%, 0);
+	transform: translate3d(-50%, -55%, 0);
 	min-width: 100%;
 }
 h1 {
